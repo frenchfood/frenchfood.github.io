@@ -148,6 +148,9 @@ a {
     .header {
         width: 100%;
     }
+    .image {
+        width: 10vw;
+    }
 
 }
 
@@ -212,4 +215,8 @@ a {
 
 .courier {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.ert {
+    text-decoration: underline;
 }
